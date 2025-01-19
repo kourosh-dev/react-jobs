@@ -6,7 +6,7 @@ const Navbar = () => {
     if (isActive) {
       return 'text-white bg-black hover:bg-gray-900 hover:text-white rounded-md px-3 py-2';
     } else {
-      return 'text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2'
+      return 'text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2';
     }
   }
 
