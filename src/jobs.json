@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "8024",
-      "title": "tets name 1",
-      "type": "Full-Time",
-      "location": "test location",
-      "description": "this is a test description",
-      "salary": "Under $50K",
-      "company": {
-        "name": "test company name",
-        "description": "this is test company description",
-        "contactEmail": "test@gmail.com",
-        "contactPhone": "test09877565"
-      }
     }
   ]
 }
